@@ -1,0 +1,25 @@
+{
+  "name": "project",
+  
+  "dependencies": {
+    "env": "^0.0.2",
+    "firebase": "^9.20.0",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.3.2",
+    "openai": "^4.29.2"
+  },
+  "devDependencies": {
+    "vite": "latest"
+  },
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
